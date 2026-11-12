@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Web Modular Aura",
+  "description": "Sistema de control de entrega de herramientas, dotación de EPP y equipos a colaboradores con alertas automáticas por vencimiento y actas oficiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
